@@ -20,9 +20,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "seiyria-bootstrap-slider": "~3.1.0",
-    "angular": "~1.2.16"
-  }
+  ]
 }
